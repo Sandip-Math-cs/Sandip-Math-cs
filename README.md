@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Java, Java script**
 
-- 💬 Ask me about **Linux, Prometheus-grafana-monitoring**
+- 💬 Ask me about **Linux, Prometheus-grafana-monitoring, also you can ask any mathematics questions**
 
 - 📫 How to reach me **sm0660872@gmail.com**
 
