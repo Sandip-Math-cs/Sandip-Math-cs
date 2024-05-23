@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Devops**
+- 🔭 I’m currently working on **Devops Engineer**
 
-- 🌱 I’m currently learning **Java, Java script**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 💬 Ask me about **Linux, Prometheus-grafana-monitoring, also you can ask any mathematics questions**
 
